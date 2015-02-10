@@ -1,4 +1,3 @@
-
 #WiringPi
 
 
@@ -14,7 +13,7 @@ In the [project page](http://wiringpi.com/reference/) you will find additional i
 
 First, [Download](https://www.biicode.com/downloads) and [Install](http://docs.biicode.com/c++/installation.html) **biicode**
 
-There are more examples in the biicode's official documentation.
+There are more examples in the [biicode docs](http://docs.biicode.com/raspberrypi/examples/wiringpi.html).
 
 ###Open the biicode's version
 
