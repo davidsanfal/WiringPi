@@ -38,11 +38,11 @@ There are more examples in the [biicode docs](http://docs.biicode.com/raspberryp
 
 ###Raspberry Pi B+ and 2
 
-![](pins/rpi2.png)
+![](https://raw.githubusercontent.com/davidsanfal/WiringPi/master/pins/rpi2.png)
 
 ###Raspberry Pi A/B
 
-![](pins/rpi.png)
+![](https://raw.githubusercontent.com/davidsanfal/WiringPi/master/pins/rpi2.png)
 
 ##Official info
 
