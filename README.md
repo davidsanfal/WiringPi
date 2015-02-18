@@ -42,7 +42,7 @@ There are more examples in the [biicode docs](http://docs.biicode.com/raspberryp
 
 ###Raspberry Pi A/B
 
-![](https://raw.githubusercontent.com/davidsanfal/WiringPi/master/pins/rpi2.png)
+![](https://raw.githubusercontent.com/davidsanfal/WiringPi/master/pins/rpi.png)
 
 ##Official info
 
